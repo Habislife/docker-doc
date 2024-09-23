@@ -18,17 +18,17 @@
 - Learn to incorporate Docker into our development workflow with hot reloading, debugging, and testing
 - Deploying containers to the cloud!
 ### Module
-  ####  1.[[History and Motivation]]
-  ####  2.[[Technology Overview]]
-  ####  3.[[Installation and Set Up]]
-  ####  4.[[Using 3rd Party Container Images]]
-  ####  5.[[Example Web Application]]
-  ####  6.[[Building Container Images]]
-   ####  7.[[Container Registries]]
-  ####  8.[[Running Containers]]
-  ####  9.[[Container Security]]
-  ####  10.[[Interacting with Docker Objects]]
-  ####  11.[[Development Workflow]]
-  ####  12.[[Deploying Container]]
-  ####  13.[[Wrap Up]]
+  ####  1.History and Motivation
+  ####  2.Technology Overview
+  ####  3.Installation and Set Up
+  ####  4.Using 3rd Party Container Images
+  ####  5.Example Web Application
+  ####  6.Building Container Images
+  ####  7.Container Registries
+  ####  8.Running Containers
+  ####  9.Container Security
+  ####  10.Interacting with Docker Objects
+  ####  11.Development Workflow
+  ####  12.Deploying Container
+  ####  13.Wrap Up
   
